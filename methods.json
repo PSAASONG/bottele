@@ -1,0 +1,12 @@
+[
+  {
+    "name": "priv-vgor",
+    "description": "Private methods good flooding h2/h1",
+    "duration": "∞"
+  },
+  {
+    "name": "priv-cloudflare",
+    "description": "Private methods good bypassing cloudflare",
+    "duration": "∞"
+  }
+]
